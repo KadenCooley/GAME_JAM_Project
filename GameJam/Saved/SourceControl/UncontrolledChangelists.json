@@ -25,7 +25,10 @@
 				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_KineticCard.uasset",
 				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardKinetic.uasset",
 				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardShrink.uasset"
+				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardShrink.uasset",
+				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardKinetic_Child.uasset",
+				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardGrow.uasset",
+				"F:/Desktop/Homework/GAME JAM/GitHub/GAME_JAM_Project/GameJam/Content/FirstPerson/Blueprints/BP_CardGravity.uasset"
 			]
 		}
 	]
